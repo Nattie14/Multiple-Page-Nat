@@ -6,3 +6,23 @@ body{
     background-color: antiquewhite;
     text-align: center;
 }
+a{
+    margin: 10px;
+}
+
+a {
+    color: green;
+  }
+  
+  a:hover {
+    color: brown;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  .crossaint{
+    max-width: 400px;
+    border-radius: 6px;
+ 
+  }
